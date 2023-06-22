@@ -31,14 +31,4 @@ def get_raw_proxy():
 
 if __name__ == "__main__":
     print(get_raw_proxy())
-    
 
-
-
-
-
-
-
-
-
-#print(result_ip)
